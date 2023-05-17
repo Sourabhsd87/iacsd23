@@ -26,29 +26,35 @@ Attendance Tracking:
 
 The app should allow employees to log their attendance, including in and out times.
 It should support different modes of attendance tracking, such as manual entry, biometric scanning, or integration with time-tracking devices.
+
 Leave and Time Off Management:
 
 Employees should be able to submit leave requests, specifying the type of leave (e.g., vacation, sick leave) and the desired dates.
 The app should provide managers with the ability to review and approve or reject leave requests.
 It should maintain a record of employees' accrued leave balances and allow them to view their remaining leave days.
+
 Task and Project Assignment:
 
 Managers should be able to assign tasks and projects to employees, including deadlines and priorities.
 The app should notify employees of new assignments and provide a centralized view of their tasks and deadlines.
+
 Performance Management:
 
 The app should support performance evaluation and feedback processes.
 Managers should be able to set performance goals and track employees' progress.
 It should provide a mechanism for employees and managers to give and receive feedback on performance.
+
 Training and Development:
 
 The app should facilitate employee training and development initiatives.
 It should allow managers to identify training needs and assign relevant courses or workshops.
 Employees should be able to access training materials and track their progress.
+
 Communication and Collaboration:
 
 The app should enable communication and collaboration among employees and teams.
 It should provide features such as messaging, chat rooms, discussion forums, and document sharing.
+
 Reporting and Analytics:
 
 The app should generate various reports related to employee data, attendance, leave, performance, and training.
@@ -58,9 +64,11 @@ Integration and Scalability:
 
 The app should have the capability to integrate with other systems, such as payroll or HRIS (Human Resource Information System).
 It should be scalable to accommodate a growing number of employees and organizational needs.
+
 Mobile Access:
 
 The app should have a mobile version or be compatible with mobile devices, allowing employees to access essential features on the go.
+
 Security and Data Privacy:
 
 The app should implement robust security measures to protect employee data and ensure privacy.

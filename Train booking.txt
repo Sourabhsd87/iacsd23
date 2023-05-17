@@ -1,0 +1,49 @@
+Purpose
+The purpose of this document is to provide a detailed specification for the Train Ticket Booking System.
+
+Scope
+The system aims to facilitate the online booking of train tickets, enabling users to search for train schedules, make reservations, and manage their bookings
+
+functional requirements
+
+User Registration
+
+The system should allow users to create an account by providing necessary details such as name, email, and password.
+Users should be able to log in using their registered credentials.
+
+Train Search and Availability
+
+Users should be able to search for train schedules by providing the source and destination stations along with the preferred travel date and time.
+The system should display the available trains, their departure and arrival times, travel duration, and ticket prices.
+Users should be able to view additional details about each train, such as intermediate stops, seat availability, and class options.
+
+Ticket Booking
+
+Users should be able to select a train and book tickets for their desired travel date, number of passengers, and class.
+The system should validate the availability of seats and prevent double booking.
+Users should be able to select specific seats or opt for an automated seat assignment process.
+
+Ticket Modification and Cancellation
+
+Users should be allowed to modify their ticket details, such as the travel date, passenger names, or class, before the scheduled departure time.
+The system should provide a cancellation option for users to cancel their tickets and initiate a refund process as per the defined cancellation policies.
+
+Payment Processing
+
+The system should integrate with a secure payment gateway to process online payments for ticket bookings.
+Users should be able to choose from different payment methods, such as credit/debit cards, net banking, or mobile wallets.
+The system should generate and display booking confirmation with a unique reference number upon successful payment.
+
+Ticket Reservation History
+
+Users should have access to a ticket reservation history that shows details of their past and upcoming journeys.
+The system should allow users to view and print their e-tickets or download them in a digital format.
+
+User Notifications
+
+The system should send email or SMS notifications to users for important updates, such as ticket confirmation, payment status, or any changes in train schedules.
+
+Admin Dashboard
+
+An administrative interface should be provided to manage train schedules, seat availability, and fare information.
+Administrators should be able to add, modify, or remove trains, update seat availability, and adjust fares as required.
